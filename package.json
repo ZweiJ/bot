@@ -1,0 +1,21 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "nodemon main.js"
+  },
+  "keywords": [
+    "bot",
+    "lucielbot",
+    "telegram",
+    "bot"
+  ],
+  "author": "abraham julian",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-telegram-bot-api": "^0.64.0"
+  }
+}
