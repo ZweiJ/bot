@@ -11,6 +11,14 @@ Welcome! Silahkan menggunakan perintah yang tersedia berikut ini:
 .halo -> menyapa bot
 
 ------
+feature yang akan ada di dalam bot ini :
+1. menampilkan resep makanan
+2. menampilkan informasi cuaca
+3. menampilkan ayat suci al-quran
+4. menampilkan jadwal shalat
+------
+
+------
 `
 
 const invalidCommandMessage = `Maaf, command tidak tersedia`
